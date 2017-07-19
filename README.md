@@ -3,7 +3,7 @@ A dataset of Named Entity Recognition and Entity Linking in movie domain includi
 
 The labeled comments can be directly unzipped:
 
-->unzip labeled-comments.zip
+->unzip labeled-data.zip
 
 For movie ontology, please use the following commands to unzip:
 
